@@ -1,4 +1,5 @@
 play hockey
 edit play in international cricket
-plat football
+Play FootBall
 select any of the above games
+add newest todo item
