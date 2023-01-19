@@ -2,5 +2,5 @@ Play Cricket
 Play Football
 Play Hockey
 Play Tennis
-add last todo item
 Play Icehockey
+resume the game
