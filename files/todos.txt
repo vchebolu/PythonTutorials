@@ -1,5 +1,6 @@
-play hockey
-edit play in international cricket
-Play FootBall
-select any of the above games
-add newest todo item
+Play Cricket
+Play Football
+Play Hockey
+Play Tennis
+add last todo item
+Play Icehockey

@@ -25,7 +25,7 @@ while True:
         case 'Add':
             print('Add button clicked')
             todos = functions.get_todos()
-            new_todos = values['todo']
+            new_todos = values['todo'] + "\n"
             todos.append(new_todos)
             functions.write_todos(todos)
             window['todos'].update(values=todos)
